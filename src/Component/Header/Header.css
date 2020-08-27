@@ -1,0 +1,10 @@
+nav{
+    background-color: lightgrey;
+    
+}
+nav a {
+    color: black;    
+}
+.nav, .nav-link{
+    padding-right: 20px;
+}
